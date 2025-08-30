@@ -1,0 +1,13 @@
+repositories:
+  livox_ros_driver2:
+    type: git
+    url: git@github.com:ThermaeTech/livox_ros_driver2.git
+    version: dev
+  ros_odrive:
+    type: git
+    url: git@github.com:ThermaeTech/ros_odrive.git
+    version: main
+  tuk-tuk:
+    type: git
+    url: git@github.com:ThermaeTech/tuk-tuk.git
+    version: dev
