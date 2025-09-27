@@ -1,1 +1,1 @@
-vcs import src < tuktuk.repos
+vcs import src < tuk-tuk.repos
