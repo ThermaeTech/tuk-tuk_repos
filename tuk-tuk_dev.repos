@@ -9,7 +9,7 @@ repositories:
     version: humble
   ros_odrive:
     type: git
-    url: git@github.com:masakifujiwara1/ros_odrive.git
+    url: git@github.com:ThermaeTech/ros_odrive.git
     version: main
   tuk-tuk:
     type: git
