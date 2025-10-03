@@ -1,0 +1,21 @@
+repositories:
+  lidar_localization_ros2:
+    type: git
+    url: git@github.com:masakifujiwara1/lidar_localization_ros2.git
+    version: humble
+  ndt_omp_ros2:
+    type: git
+    url: https://github.com/rsasaki0109/ndt_omp_ros2.git
+    version: humble
+  ros_odrive:
+    type: git
+    url: git@github.com:masakifujiwara1/ros_odrive.git
+    version: main
+  tuk-tuk:
+    type: git
+    url: git@github.com:ThermaeTech/tuk-tuk.git
+    version: dev
+  tuktuk_description:
+    type: git
+    url: git@github.com:ThermaeTech/tuktuk_description.git
+    version: main
