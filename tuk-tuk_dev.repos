@@ -15,7 +15,7 @@ repositories:
     type: git
     url: git@github.com:ThermaeTech/tuk-tuk.git
     version: dev
-  tuktuk_description:
+  tuktuk_simulator:
     type: git
-    url: git@github.com:ThermaeTech/tuktuk_description.git
+    url: git@github.com:ThermaeTech/tuktuk_simulator.git
     version: main
