@@ -21,6 +21,8 @@ vcs import ~/ros2_ws/src < tuk-tuk_dev.repos
 ```
 ## ros2 build
 ```
+cd ~/ros2_ws/src
+rosdep install -i --from-paths tuk-tuk
 cd ~/ros2_ws
 colcon build --symlink-install
 ```
