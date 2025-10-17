@@ -1,8 +1,8 @@
 repositories:
   lidar_localization_ros2:
     type: git
-    url: git@github.com:masakifujiwara1/lidar_localization_ros2.git
-    version: humble
+    url: git@github.com:ThermaeTech/lidar_localization_ros2.git
+    version: main
   ndt_omp_ros2:
     type: git
     url: https://github.com/rsasaki0109/ndt_omp_ros2.git
